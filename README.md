@@ -1,2 +1,2 @@
-# python_jetbrains
-Learning python
+## Learning Python from Jetbrains
+This is my repository for any project using python
